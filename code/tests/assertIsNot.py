@@ -3,7 +3,7 @@ import unittest
 first_name = 'chuks_chuks'
 last_name = 'chuks'
 
-class AssertIs(unittest.TestCase):
+class AssertIsNot(unittest.TestCase):
 
   def test_case(self):
     self.assertIsNot(first_name, last_name)
