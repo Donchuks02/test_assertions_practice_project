@@ -32,8 +32,8 @@ This project covers the following `unittest` assertion methods:
 - `assertGreaterEqual()`
 - `assertLess()`
 - `assertLessEqual()`
-- `assertRegexpMatches()`
-- `assertNotRegexpMatches()`
+- `assertRegex()`
+- `assertNotRegex()`
 - `assertItemsEqual() `
 - `assertDictContainsSubset()`
 - `assertMultiLineEqual()`
